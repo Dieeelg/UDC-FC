@@ -1,0 +1,15 @@
+Una máquina expendedora dispone de dos productos (A y B), de valor 1€ y 1.5€ respectivamente.
+La máquina acepta monedas de 50 céntimos y de 1 y 2 euros.
+Para elegir uno de los dos productos se pulsa su botón (botón A o botón B) y dependiendo del...
+...dinero insertado se hará lo siguiente:
+	-Si tiene menos dinero del necesario, este se devolverá.
+	-Si tiene el dinero suficiente para lo deseado, se proporciona el producto indicado...
+	 ...y la máquina guarda el dinero.
+Además, posee un boton RESET que devolverá el dinero introducido en caso de no comprar nada.
+
+La máquina no podrá contener un importe mayor a 3€, pero si ya ha superado los 1.5€, tampoco...
+seguirá almacenando nuevas monedas.
+
+(Suponemos que solo se puede pulsar un botón o introducir una moneda de cada vez)
+(En esta máquina, si se inserta más dinero del que cuesta el producto, este no se devolverá...
+...al consumidor).
